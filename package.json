@@ -1,0 +1,19 @@
+{
+  "name": "hortio-ar",
+  "version": "1.0.0",
+  "description": "AR Web overlay for hortio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hortio/hortio-ar.git"
+  },
+  "author": "Sergei Silnov <po@kumekay.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hortio/hortio-ar/issues"
+  },
+  "homepage": "https://github.com/hortio/hortio-ar#readme"
+}
